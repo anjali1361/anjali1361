@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali1361" alt="anjali1361" /></a> </p>
 
+<img align ="right" alt="Coding" width="400" src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">
+
 - 🔭 I’m currently working on Web projects and preparing for hackathons. [Portfolio](https://github.com/anjali1361/30-days-of-web/tree/master)
 
 - 🌱 I’m currently learning **Java for Industry level.Taught by one of our Alumuni at BIT Sindri**
