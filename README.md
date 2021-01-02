@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali1361" alt="anjali1361" /><br></a> </p><br>
 
-<img align ="right" alt="Coding" width="400" src="githubProfile.gif">
+<img align ="right" alt="Coding" width="400" src="giphy.gif">
 
 - 🔭 I’m currently working on Web projects and preparing for hackathons. [Portfolio](https://github.com/anjali1361/30-days-of-web/tree/master)
 
