@@ -7,7 +7,7 @@
 
 <img align ="right" alt="Coding" width="400" src="giphy.gif">
 
-- 🔭 I’m currently working on ** Web projects and preparing for hackathons.** [Portfolio](https://github.com/anjali1361/30-days-of-web/tree/master)
+- 🔭 I’m currently working on **Web projects and preparing for hackathons** [My Work](https://github.com/anjali1361/30-days-of-web/tree/master)
 
 - 🌱 I’m currently learning **Java for Industry level.Taught by one of our Alumuni at BIT Sindri**
 
