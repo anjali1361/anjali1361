@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Android and Web development on both frontend and backend.**
 
-- 📄 Know about my experiences [file:///C:/Users/rajes/AppData/Local/Temp/AnjaliKumari_InternshalaResume.pdf](file:///C:/Users/rajes/AppData/Local/Temp/AnjaliKumari_InternshalaResume.pdf)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1y6cBrYLQeHujuBPlX6AG3ArLNSidGS_2/view?usp=drivesdk) 
 
 - ⚡ Fun fact **I think I am mad**
 
