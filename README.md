@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">A passionate Mobile Application and inetersted in Cloud and Web frameworks.</h3>
+<h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
+<h3 align="center">A passionate Mobile Application Developer & inetersted in Cloud and Web frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali1361&label=Profile%20views&color=0e75b6&style=flat" alt="anjali1361" /> </p>
 
