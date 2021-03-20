@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">A passionate Android & Backend Web developer from India.</h3>
+<h3 align="center">A passionate Mobile Application and inetersted in Cloud and Web frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali1361&label=Profile%20views&color=0e75b6&style=flat" alt="anjali1361" /> </p>
 
@@ -7,9 +7,9 @@
 
 <img align ="right" alt="Coding" width="400" src="giphy.gif">
 
-- 🔭 I’m currently working on **Web projects and preparing for hackathons** [My Work](https://github.com/anjali1361/30-days-of-web/tree/master)
+- 🔭 I’m currently working on **Campus Beats Case Study at ZS** [My Work](https://github.com/anjali1361/30-days-of-web/tree/master)
 
-- 🌱 I’m currently learning **Java for Industry level.Taught by one of our Alumuni at BIT Sindri**
+- 🌱 I’m currently learning **Hybrid Mobile Application Development**
 
 - 👯 I’m looking to collaborate **with product based companies**
 
@@ -19,9 +19,9 @@
 
 - 📝 I regularly write articles on [https://anjali1361.github.io/my_blog/](https://anjali1361.github.io/my_blog/)
 
-- 💬 Ask me about **Android and Web development on both frontend and backend.**
+- 💬 Ask me about **Mobile Application development both Native and Hybrid.**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1y6cBrYLQeHujuBPlX6AG3ArLNSidGS_2/view?usp=drivesdk) 
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1LCpxqslcsgiKYXXmkfGSm72VEuzEaWrc/view?usp=sharing) 
 
 - ⚡ Fun fact **I think I am mad**
 
