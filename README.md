@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Mobile Application development both Native and Hybrid.**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1LCpxqslcsgiKYXXmkfGSm72VEuzEaWrc/view?usp=sharing) 
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Y9ivM_G8pSL8wQan0NH6UHqtpBPQYN6O/view?usp=sharing) 
 
 - ⚡ Fun fact **I think I am mad**
 
