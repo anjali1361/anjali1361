@@ -7,7 +7,7 @@
 
 <img align ="right" alt="Coding" width="400" src="giphy.gif">
 
-- 🌱 I’m **Hybrid Mobile Application Developer**
+- 🌱 I’m **Android Application Developer with kotlin**
 
 - 👯 I’m looking to collaborate **with product based companies**
 
