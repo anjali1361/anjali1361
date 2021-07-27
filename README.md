@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali1361" alt="anjali1361" /></a> </p>
 
+<img src="giphy.gif" width="500" height="500">
+
 - 🔭 I’m currently working on **Website using Java SE Technology**
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -15,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://anjali1361.github.io/my_blog/](https://anjali1361.github.io/my_blog/)
 
-- 💬 Ask me about **Java EE Technology, Android, Android Studio,MySQL, MongoDB,RestAPI**
+- 💬 Ask me about **Java EE and SE Technology, Android, Android Studio,MySQL, MongoDB,RestAPI**
 
 - 📫 How to reach me **anjalikumari13617@gmail.com**
 
