@@ -4,15 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali1361&label=Profile%20views&color=0e75b6&style=flat" alt="anjali1361" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali1361" alt="anjali1361" /></a> </p>
-
-<img src="giphy.gif" width="500" height="500">
+<img src="giphy.gif" width="500" height="500" align=right>
 
 - 🔭 I’m currently working on **Website using Java SE Technology**
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **industrial level project**
-
+  
 - 👨‍💻 All of my projects are available at [https://github.com/anjali1361](https://github.com/anjali1361)
 
 - 📝 I regularly write articles on [https://anjali1361.github.io/my_blog/](https://anjali1361.github.io/my_blog/)
