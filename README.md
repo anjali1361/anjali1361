@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali1361" alt="anjali1361" /></a> </p>
 <img src="giphy.gif" width="500" height="500" align=right>
 
-- 🔭 I’m currently working on **Website using Java SE Technology**
+- 🔭 I’m currently working on **Website using Java EE Technology**
 
 - 🌱 I’m currently learning **Spring Boot**
 
