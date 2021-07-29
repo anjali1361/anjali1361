@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
-<h3 align="center">A passionate Android developer using Java SE Technologies for backend development</h3>
+<h3 align="center">A passionate Android developer using Java EE Technologies for backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali1361&label=Profile%20views&color=0e75b6&style=flat" alt="anjali1361" /> </p>
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **anjalikumari13617@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CUdqwzislDyvYXrS6PNr8lgSSvZFRY7X/view?usp=sharing](https://drive.google.com/file/d/1CUdqwzislDyvYXrS6PNr8lgSSvZFRY7X/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZxzbZfBSlKVckxeUeAkRu-knSoZ2d1N7/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am mad at visualization**
 
