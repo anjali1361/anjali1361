@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **anjalikumari13617@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KDFdijKvMxVBAHdII9wZbnKmVv9srIzB/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WEaLXCQA-fzJt_aQJU765AcUAYi6e3LU/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am mad at visualization**
 
