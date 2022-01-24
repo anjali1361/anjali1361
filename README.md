@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
-<h3 align="center">A passionate Android developer using Java EE Technologies for backend development</h3>
+<h3 align="center">A passionate Android and Java Backend developer, using Java EE & Spring-Boot(Spring Framework) Technologies for backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali1361&label=Profile%20views&color=0e75b6&style=flat" alt="anjali1361" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali1361" alt="anjali1361" /></a> </p>
 <img src="giphy.gif" width="500" height="500" align=right>
 
-- 🔭 I’m currently working on **website using Java EE Technology**
+- 🔭 I’m currently working on **website using Java EE & Spring-Boot Technology**
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **Spring-Boot**
 
 - 👯 I’m looking to collaborate on **industrial level project**
   
@@ -16,11 +16,11 @@
 
 - 📝 I regularly write articles on [https://anjali1361.github.io/my_blog/](https://anjali1361.github.io/my_blog/)
 
-- 💬 Ask me about **java EE and SE Technology, Android, Android Studio, MySQL, GitHub**
+- 💬 Ask me about **java EE and SE Technology, Sping Framework and Spring-Boot, Android, Android Studio, MySQL, GitHub**
 
 - 📫 How to reach me **anjalikumari13617@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WEaLXCQA-fzJt_aQJU765AcUAYi6e3LU/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u3xe1zdjdnAst9v0Wp8LEpLb7PG6qalX/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am mad at visualization**
 
